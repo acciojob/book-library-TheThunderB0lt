@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+*{
+	background-color:#f8f8f8;
+}
+h1{
+	text-align:center;
+}
+.book-library{
+	background-color:#ffffff;
+	box-shadow:10px;
+}
+.book{
+	background-color: #ffffff; /* Add a background color for the .book class */
+  padding: 10px; 
+}
+.price{
+	background-color:rgb(46,204,113);
+	color:white;
+	text-align:center;
+	border-radius:5px;
+}
+.author{
+	color:rgb(119,119,119);
+}
